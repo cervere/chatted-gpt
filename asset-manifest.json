@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/save-gpt-client/static/css/main.bb6d9fab.css",
-    "main.js": "/save-gpt-client/static/js/main.3ecc48c2.js",
-    "static/js/787.5dda27f3.chunk.js": "/save-gpt-client/static/js/787.5dda27f3.chunk.js",
-    "static/media/fa-solid-900.ttf": "/save-gpt-client/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/image.jpg": "/save-gpt-client/static/media/image.8019da57b1a382390eec.jpg",
-    "static/media/fa-brands-400.ttf": "/save-gpt-client/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/fa-solid-900.woff2": "/save-gpt-client/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/save-gpt-client/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/fa-regular-400.ttf": "/save-gpt-client/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/fa-regular-400.woff2": "/save-gpt-client/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/fa-v4compatibility.ttf": "/save-gpt-client/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/save-gpt-client/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "index.html": "/save-gpt-client/index.html",
-    "main.bb6d9fab.css.map": "/save-gpt-client/static/css/main.bb6d9fab.css.map",
-    "main.3ecc48c2.js.map": "/save-gpt-client/static/js/main.3ecc48c2.js.map",
-    "787.5dda27f3.chunk.js.map": "/save-gpt-client/static/js/787.5dda27f3.chunk.js.map"
+    "main.css": "/chatted-gpt/static/css/main.58d1a7f5.css",
+    "main.js": "/chatted-gpt/static/js/main.6759f720.js",
+    "static/js/787.5dda27f3.chunk.js": "/chatted-gpt/static/js/787.5dda27f3.chunk.js",
+    "static/media/fa-solid-900.ttf": "/chatted-gpt/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/image.jpg": "/chatted-gpt/static/media/image.8019da57b1a382390eec.jpg",
+    "static/media/fa-brands-400.ttf": "/chatted-gpt/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/chatted-gpt/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/chatted-gpt/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/chatted-gpt/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/chatted-gpt/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/chatted-gpt/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/chatted-gpt/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/chatted-gpt/index.html",
+    "main.58d1a7f5.css.map": "/chatted-gpt/static/css/main.58d1a7f5.css.map",
+    "main.6759f720.js.map": "/chatted-gpt/static/js/main.6759f720.js.map",
+    "787.5dda27f3.chunk.js.map": "/chatted-gpt/static/js/787.5dda27f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb6d9fab.css",
-    "static/js/main.3ecc48c2.js"
+    "static/css/main.58d1a7f5.css",
+    "static/js/main.6759f720.js"
   ]
 }
